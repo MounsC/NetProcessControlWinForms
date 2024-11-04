@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GK6n7Qkdk9k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mouns\\RiderProjects\\NetProcessControl\\NetProcessControl\\NetProcessControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mouns\\.nuget\\packages\\vocaluxe.dependencies.netfwtypelib\\1.0.1\\vocaluxe.dependencies.netfwtypelib.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

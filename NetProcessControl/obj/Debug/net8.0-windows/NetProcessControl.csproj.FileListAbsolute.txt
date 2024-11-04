@@ -1,0 +1,15 @@
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\bin\Debug\net8.0-windows\NetProcessControl.exe
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\bin\Debug\net8.0-windows\NetProcessControl.deps.json
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\bin\Debug\net8.0-windows\NetProcessControl.runtimeconfig.json
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\bin\Debug\net8.0-windows\NetProcessControl.dll
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\bin\Debug\net8.0-windows\NetProcessControl.pdb
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.csproj.AssemblyReference.cache
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.AssemblyInfoInputs.cache
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.AssemblyInfo.cs
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.csproj.CoreCompileInputs.cache
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.dll
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\refint\NetProcessControl.dll
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.pdb
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\NetProcessControl.genruntimeconfig.cache
+C:\Users\Mouns\RiderProjects\NetProcessControl\NetProcessControl\obj\Debug\net8.0-windows\ref\NetProcessControl.dll
